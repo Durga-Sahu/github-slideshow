@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-"Flot like a butterfly, string like a bee" - Muhmad Ali
+"Float like a butterfly, string like a bee" - Muhammad Ali
 Use the left arrow to go back!
